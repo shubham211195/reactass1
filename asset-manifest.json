@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactass1/static/css/main.5b14d9d7.css",
+    "main.js": "/reactass1/static/js/main.8fe88071.js",
+    "static/js/787.ca634b32.chunk.js": "/reactass1/static/js/787.ca634b32.chunk.js",
+    "index.html": "/reactass1/index.html",
+    "main.5b14d9d7.css.map": "/reactass1/static/css/main.5b14d9d7.css.map",
+    "main.8fe88071.js.map": "/reactass1/static/js/main.8fe88071.js.map",
+    "787.ca634b32.chunk.js.map": "/reactass1/static/js/787.ca634b32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b14d9d7.css",
+    "static/js/main.8fe88071.js"
+  ]
+}
